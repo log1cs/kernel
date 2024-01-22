@@ -12,7 +12,21 @@ HMD Global offers selected parts of source codes used in our smartphones through
 HMD Global provide source code licensed under the GPL or LGPL, and some other open source licenses allowing 
 source code distribution.
 
-Upload status: Still fetching the kernel. 28 device got fetched.
+Upload status: Still fetching the kernel.
+
+* [Nokia XR21](https://drive.google.com/drive/folders/1RF9mWJut-wbhHxUFWlf_IvvYs9aeRP5U)
+
+* [Nokia C12](https://drive.google.com/drive/folders/1QKUQYNSeaYJdd96MHTeoIfAHYC9ahTxx)
+
+* [Nokia G21](https://drive.google.com/drive/folders/15_S_CmynDcy_n5lW9COwRVseCkQabmcD)
+
+* [Nokia G11](https://drive.google.com/drive/folders/1FAPJ2C5Zy-EYIFgt-CzYvImdVTUqUOOA)
+
+* [Nokia C100](https://drive.google.com/drive/folders/1gjxi71z21MyHICd6SS2LAjGIGrbOsWzs)
+
+* [Nokia T21](https://drive.google.com/drive/folders/1WWN5HlLQPD3yYLdXuxV-q8EuYq-ve-cN)
+
+* [Nokia T20](https://drive.google.com/drive/folders/178UPsDB7mops-MvW_UjkveJayahKf3TY)
 
 * [Nokia XR20](https://drive.google.com/drive/folders/1b2C-byO59UsYHJpsazwPCeCCGD0Q-WM3)
 
@@ -33,6 +47,10 @@ Upload status: Still fetching the kernel. 28 device got fetched.
 * [Nokia C20](https://drive.google.com/drive/folders/10cdH71x-lRanEihjC88QYRddCyGw0CY0)
 
 * [Nokia C10](https://drive.google.com/drive/folders/14PydEfQocDJ1PWIl9u0aoZ70AP8jm0QA)
+
+* [Nokia C2](https://drive.google.com/drive/folders/1jUb-UPF7ud8xxlhcLt8zrQHZrn3qwUBo)
+
+* [Nokia C1](https://drive.google.com/drive/folders/1xuKOcFLYXPuNnxiy671EGc-tDMcgPv4S)
 
 * [Nokia 9 PureView](https://drive.google.com/drive/folders/13wLMQI1jF7wPUEwbSmMRLS9Hc50TdTNr)
 
@@ -78,7 +96,7 @@ Upload status: Still fetching the kernel. 28 device got fetched.
 
 * [Nokia 3.1 C]
 
-* [Nokia 3.1 A]
+* [Nokia 3.1 A](https://drive.google.com/drive/folders/1bslN3I-xsEpNavegag4WAHwmIoFUtJt7)
 
 * [Nokia 3.1](https://drive.google.com/drive/folders/17BNse9ww-LmdcvqnPvI_zc31IIVBvCe6)
 
@@ -91,8 +109,6 @@ Upload status: Still fetching the kernel. 28 device got fetched.
 * [Nokia 2.1]
 
 * [Nokia 2]
-
-* [Nokia 1.4]
 
 * [Nokia 1 Plus](https://drive.google.com/drive/folders/1e1Fqi97RETQ2LfdUFkCmBTnroNBZub8V)
 
